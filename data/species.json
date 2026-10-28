@@ -1,0 +1,187 @@
+[
+  {
+    "id": "pitangus-sulphuratus",
+    "scientificName": "Pitangus sulphuratus",
+    "nameEs": "Bichofué",
+    "nameEn": "Great Kiskadee",
+    "family": "Tyrannidae"
+  },
+  {
+    "id": "tyrannus-melancholicus",
+    "scientificName": "Tyrannus melancholicus",
+    "nameEs": "Sirirí",
+    "nameEn": "Tropical Kingbird",
+    "family": "Tyrannidae"
+  },
+  {
+    "id": "myiozetetes-similis",
+    "scientificName": "Myiozetetes similis",
+    "nameEs": "Suelda social",
+    "nameEn": "Social Flycatcher",
+    "family": "Tyrannidae"
+  },
+  {
+    "id": "zonotrichia-capensis",
+    "scientificName": "Zonotrichia capensis",
+    "nameEs": "Copetón",
+    "nameEn": "Rufous-collared Sparrow",
+    "family": "Passerellidae"
+  },
+  {
+    "id": "turdus-grayi",
+    "scientificName": "Turdus grayi",
+    "nameEs": "Mirla embarrada",
+    "nameEn": "Clay-colored Thrush",
+    "family": "Turdidae"
+  },
+  {
+    "id": "turdus-fuscater",
+    "scientificName": "Turdus fuscater",
+    "nameEs": "Mirla patinaranja",
+    "nameEn": "Great Thrush",
+    "family": "Turdidae"
+  },
+  {
+    "id": "thraupis-episcopus",
+    "scientificName": "Thraupis episcopus",
+    "nameEs": "Azulejo",
+    "nameEn": "Blue-gray Tanager",
+    "family": "Thraupidae"
+  },
+  {
+    "id": "ramphocelus-dimidiatus",
+    "scientificName": "Ramphocelus dimidiatus",
+    "nameEs": "Toche pico de plata",
+    "nameEn": "Crimson-backed Tanager",
+    "family": "Thraupidae"
+  },
+  {
+    "id": "chlorochrysa-nitidissima",
+    "scientificName": "Chlorochrysa nitidissima",
+    "nameEs": "Tángara multicolor",
+    "nameEn": "Multicolored Tanager",
+    "family": "Thraupidae"
+  },
+  {
+    "id": "sicalis-flaveola",
+    "scientificName": "Sicalis flaveola",
+    "nameEs": "Canario costeño",
+    "nameEn": "Saffron Finch",
+    "family": "Thraupidae"
+  },
+  {
+    "id": "spinus-psaltria",
+    "scientificName": "Spinus psaltria",
+    "nameEs": "Jilguero menor",
+    "nameEn": "Lesser Goldfinch",
+    "family": "Fringillidae"
+  },
+  {
+    "id": "coereba-flaveola",
+    "scientificName": "Coereba flaveola",
+    "nameEs": "Mielero común",
+    "nameEn": "Bananaquit",
+    "family": "Thraupidae"
+  },
+  {
+    "id": "troglodytes-aedon",
+    "scientificName": "Troglodytes aedon",
+    "nameEs": "Cucarachero común",
+    "nameEn": "House Wren",
+    "family": "Troglodytidae"
+  },
+  {
+    "id": "amazilia-tzacatl",
+    "scientificName": "Amazilia tzacatl",
+    "nameEs": "Amazilia colirrufa",
+    "nameEn": "Rufous-tailed Hummingbird",
+    "family": "Trochilidae",
+    "altNames": [
+      "Amazilis tzacatl"
+    ]
+  },
+  {
+    "id": "crotophaga-ani",
+    "scientificName": "Crotophaga ani",
+    "nameEs": "Garrapatero",
+    "nameEn": "Smooth-billed Ani",
+    "family": "Cuculidae"
+  },
+  {
+    "id": "zenaida-auriculata",
+    "scientificName": "Zenaida auriculata",
+    "nameEs": "Torcaza naguiblanca",
+    "nameEn": "Eared Dove",
+    "family": "Columbidae"
+  },
+  {
+    "id": "columbina-talpacoti",
+    "scientificName": "Columbina talpacoti",
+    "nameEs": "Tortolita común",
+    "nameEn": "Ruddy Ground Dove",
+    "family": "Columbidae"
+  },
+  {
+    "id": "vanellus-chilensis",
+    "scientificName": "Vanellus chilensis",
+    "nameEs": "Pellar",
+    "nameEn": "Southern Lapwing",
+    "family": "Charadriidae"
+  },
+  {
+    "id": "forpus-conspicillatus",
+    "scientificName": "Forpus conspicillatus",
+    "nameEs": "Periquito de anteojos",
+    "nameEn": "Spectacled Parrotlet",
+    "family": "Psittacidae"
+  },
+  {
+    "id": "ortalis-columbiana",
+    "scientificName": "Ortalis columbiana",
+    "nameEs": "Guacharaca colombiana",
+    "nameEn": "Colombian Chachalaca",
+    "family": "Cracidae"
+  },
+  {
+    "id": "penelope-perspicax",
+    "scientificName": "Penelope perspicax",
+    "nameEs": "Pava caucana",
+    "nameEn": "Cauca Guan",
+    "family": "Cracidae"
+  },
+  {
+    "id": "melanerpes-rubricapillus",
+    "scientificName": "Melanerpes rubricapillus",
+    "nameEs": "Carpintero habado",
+    "nameEn": "Red-crowned Woodpecker",
+    "family": "Picidae"
+  },
+  {
+    "id": "momotus-aequatorialis",
+    "scientificName": "Momotus aequatorialis",
+    "nameEs": "Barranquero",
+    "nameEn": "Andean Motmot",
+    "family": "Momotidae"
+  },
+  {
+    "id": "phimosus-infuscatus",
+    "scientificName": "Phimosus infuscatus",
+    "nameEs": "Coquito",
+    "nameEn": "Bare-faced Ibis",
+    "family": "Threskiornithidae"
+  },
+  {
+    "id": "megascops-choliba",
+    "scientificName": "Megascops choliba",
+    "nameEs": "Currucutú",
+    "nameEn": "Tropical Screech-Owl",
+    "family": "Strigidae"
+  },
+  {
+    "id": "nyctidromus-albicollis",
+    "scientificName": "Nyctidromus albicollis",
+    "nameEs": "Guardacaminos común",
+    "nameEn": "Common Pauraque",
+    "family": "Caprimulgidae"
+  }
+]

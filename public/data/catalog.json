@@ -1,0 +1,1615 @@
+{
+  "generatedAt": "2026-10-28T01:39:41.664Z",
+  "source": "https://xeno-canto.org (API v3)",
+  "species": [
+    {
+      "id": "pitangus-sulphuratus",
+      "scientificName": "Pitangus sulphuratus",
+      "nameEs": "Bichofué",
+      "nameEn": "Great Kiskadee",
+      "family": "Tyrannidae",
+      "recordings": [
+        {
+          "xcId": "437833",
+          "audioUrl": "https://xeno-canto.org/437833/download",
+          "xcUrl": "https://xeno-canto.org/437833",
+          "type": "call, song",
+          "quality": "A",
+          "locality": "Zanjón del Burro, Cali, Valle del Cauca",
+          "country": "Colombia",
+          "rec": "Juan Sebastian Ulloa",
+          "lic": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+        },
+        {
+          "xcId": "457242",
+          "audioUrl": "https://xeno-canto.org/457242/download",
+          "xcUrl": "https://xeno-canto.org/457242",
+          "type": "song",
+          "quality": "A",
+          "locality": "Reserva Natural Cauquitá",
+          "country": "Colombia",
+          "rec": "David Monroy Rengifo",
+          "lic": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+        },
+        {
+          "xcId": "494788",
+          "audioUrl": "https://xeno-canto.org/494788/download",
+          "xcUrl": "https://xeno-canto.org/494788",
+          "type": "song",
+          "quality": "A",
+          "locality": "Reserva Natural Cauquitá",
+          "country": "Colombia",
+          "rec": "David Monroy Rengifo",
+          "lic": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+        },
+        {
+          "xcId": "542483",
+          "audioUrl": "https://xeno-canto.org/542483/download",
+          "xcUrl": "https://xeno-canto.org/542483",
+          "type": "call, song",
+          "quality": "A",
+          "locality": "Finca San Jorge, Morelia/Caquetá",
+          "country": "Colombia",
+          "rec": "Mauricio Cuellar Ramirez (@Birding.travel)",
+          "lic": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+        },
+        {
+          "xcId": "604880",
+          "audioUrl": "https://xeno-canto.org/604880/download",
+          "xcUrl": "https://xeno-canto.org/604880",
+          "type": "call",
+          "quality": "A",
+          "locality": "Obando, Valle del Cauca",
+          "country": "Colombia",
+          "rec": "Miguel Angel Muñoz-Amaya",
+          "lic": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+        }
+      ]
+    },
+    {
+      "id": "tyrannus-melancholicus",
+      "scientificName": "Tyrannus melancholicus",
+      "nameEs": "Sirirí",
+      "nameEn": "Tropical Kingbird",
+      "family": "Tyrannidae",
+      "recordings": [
+        {
+          "xcId": "457445",
+          "audioUrl": "https://xeno-canto.org/457445/download",
+          "xcUrl": "https://xeno-canto.org/457445",
+          "type": "call",
+          "quality": "A",
+          "locality": "Corredor Ecológico La Dulcera // Sector La Bombonera , Pereira, Risaralda",
+          "country": "Colombia",
+          "rec": "David Monroy Rengifo",
+          "lic": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+        },
+        {
+          "xcId": "543737",
+          "audioUrl": "https://xeno-canto.org/543737/download",
+          "xcUrl": "https://xeno-canto.org/543737",
+          "type": "call",
+          "quality": "A",
+          "locality": "Finca San Jorge, Morelia/Caquetá",
+          "country": "Colombia",
+          "rec": "Mauricio Cuellar Ramirez (@Birding.travel)",
+          "lic": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+        },
+        {
+          "xcId": "636053",
+          "audioUrl": "https://xeno-canto.org/636053/download",
+          "xcUrl": "https://xeno-canto.org/636053",
+          "type": "song, canto al amanecer",
+          "quality": "A",
+          "locality": "Finca Las Delicias - Valparaíso, Caquetá",
+          "country": "Colombia",
+          "rec": "Mauricio Cuellar Ramirez (@Birding.travel)",
+          "lic": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+        },
+        {
+          "xcId": "683932",
+          "audioUrl": "https://xeno-canto.org/683932/download",
+          "xcUrl": "https://xeno-canto.org/683932",
+          "type": "song, canto al amanecer",
+          "quality": "A",
+          "locality": "Finca San Jorge, Morelia/Caquetá",
+          "country": "Colombia",
+          "rec": "Mauricio Cuellar Ramirez (@Birding.travel)",
+          "lic": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+        },
+        {
+          "xcId": "131753",
+          "audioUrl": "https://xeno-canto.org/131753/download",
+          "xcUrl": "https://xeno-canto.org/131753",
+          "type": "dawn song, song",
+          "quality": "B",
+          "locality": "Parque Regional Barbas-Bremen, Filandia, Quindio. Sector Barbas",
+          "country": "Colombia",
+          "rec": "Oscar Humberto Marin-Gomez",
+          "lic": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+        }
+      ]
+    },
+    {
+      "id": "myiozetetes-similis",
+      "scientificName": "Myiozetetes similis",
+      "nameEs": "Suelda social",
+      "nameEn": "Social Flycatcher",
+      "family": "Tyrannidae",
+      "recordings": [
+        {
+          "xcId": "691001",
+          "audioUrl": "https://xeno-canto.org/691001/download",
+          "xcUrl": "https://xeno-canto.org/691001",
+          "type": "call",
+          "quality": "A",
+          "locality": "Finca San Jorge, Morelia/Caquetá",
+          "country": "Colombia",
+          "rec": "Mauricio Cuellar Ramirez (@Birding.travel)",
+          "lic": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+        },
+        {
+          "xcId": "558078",
+          "audioUrl": "https://xeno-canto.org/558078/download",
+          "xcUrl": "https://xeno-canto.org/558078",
+          "type": "call",
+          "quality": "B",
+          "locality": "Finca San Jorge, Morelia/Caquetá",
+          "country": "Colombia",
+          "rec": "Mauricio Cuellar Ramirez (@Birding.travel)",
+          "lic": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+        },
+        {
+          "xcId": "716471",
+          "audioUrl": "https://xeno-canto.org/716471/download",
+          "xcUrl": "https://xeno-canto.org/716471",
+          "type": "call, song",
+          "quality": "A",
+          "locality": "Piedras, Tolima",
+          "country": "Colombia",
+          "rec": "Hernán Arias",
+          "lic": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+        },
+        {
+          "xcId": "879864",
+          "audioUrl": "https://xeno-canto.org/879864/download",
+          "xcUrl": "https://xeno-canto.org/879864",
+          "type": "call",
+          "quality": "A",
+          "locality": "Bahía Solano, Chocó",
+          "country": "Colombia",
+          "rec": "Joost van Bruggen",
+          "lic": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+        },
+        {
+          "xcId": "74498",
+          "audioUrl": "https://xeno-canto.org/74498/download",
+          "xcUrl": "https://xeno-canto.org/74498",
+          "type": "song",
+          "quality": "B",
+          "locality": "San Luis de Gaceno_Cuchilla de San Agustin",
+          "country": "Colombia",
+          "rec": "Angela Caguazango y Oswaldo Cortes",
+          "lic": "https://creativecommons.org/licenses/by-nc-nd/2.5/"
+        }
+      ]
+    },
+    {
+      "id": "zonotrichia-capensis",
+      "scientificName": "Zonotrichia capensis",
+      "nameEs": "Copetón",
+      "nameEn": "Rufous-collared Sparrow",
+      "family": "Passerellidae",
+      "recordings": [
+        {
+          "xcId": "12419",
+          "audioUrl": "https://xeno-canto.org/12419/download",
+          "xcUrl": "https://xeno-canto.org/12419",
+          "type": "song",
+          "quality": "A",
+          "locality": "Ricaurte, RN La Planada, Narino",
+          "country": "Colombia",
+          "rec": "Oscar Laverde",
+          "lic": "https://creativecommons.org/licenses/by-nc-nd/2.5/"
+        },
+        {
+          "xcId": "128185",
+          "audioUrl": "https://xeno-canto.org/128185/download",
+          "xcUrl": "https://xeno-canto.org/128185",
+          "type": "song",
+          "quality": "A",
+          "locality": "Parque Regional Barbas-Bremen, Filandia, Quindio",
+          "country": "Colombia",
+          "rec": "Oscar H. Marín-Gómez",
+          "lic": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+        },
+        {
+          "xcId": "558286",
+          "audioUrl": "https://xeno-canto.org/558286/download",
+          "xcUrl": "https://xeno-canto.org/558286",
+          "type": "song",
+          "quality": "A",
+          "locality": "Vereda La Selva, Popayán, Cauca",
+          "country": "Colombia",
+          "rec": "Alejandro Vivas Ruiz",
+          "lic": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+        },
+        {
+          "xcId": "567467",
+          "audioUrl": "https://xeno-canto.org/567467/download",
+          "xcUrl": "https://xeno-canto.org/567467",
+          "type": "song, subsong, social calling",
+          "quality": "A",
+          "locality": "Florencia, Caquetá",
+          "country": "Colombia",
+          "rec": "Mauricio Cuellar Ramirez (@Birding.travel)",
+          "lic": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+        },
+        {
+          "xcId": "567472",
+          "audioUrl": "https://xeno-canto.org/567472/download",
+          "xcUrl": "https://xeno-canto.org/567472",
+          "type": "song, subsong, social calling",
+          "quality": "A",
+          "locality": "Florencia, Caquetá",
+          "country": "Colombia",
+          "rec": "Mauricio Cuellar Ramirez (@Birding.travel)",
+          "lic": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+        }
+      ]
+    },
+    {
+      "id": "turdus-grayi",
+      "scientificName": "Turdus grayi",
+      "nameEs": "Mirla embarrada",
+      "nameEn": "Clay-colored Thrush",
+      "family": "Turdidae",
+      "recordings": [
+        {
+          "xcId": "316134",
+          "audioUrl": "https://xeno-canto.org/316134/download",
+          "xcUrl": "https://xeno-canto.org/316134",
+          "type": "song",
+          "quality": "A",
+          "locality": "Hotel Tinamú Birding Nature Reserve",
+          "country": "Colombia",
+          "rec": "Santiago Ramos",
+          "lic": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+        },
+        {
+          "xcId": "450246",
+          "audioUrl": "https://xeno-canto.org/450246/download",
+          "xcUrl": "https://xeno-canto.org/450246",
+          "type": "call",
+          "quality": "A",
+          "locality": "Reserva Natural Cauquitá",
+          "country": "Colombia",
+          "rec": "David Monroy Rengifo",
+          "lic": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+        },
+        {
+          "xcId": "318669",
+          "audioUrl": "https://xeno-canto.org/318669/download",
+          "xcUrl": "https://xeno-canto.org/318669",
+          "type": "song",
+          "quality": "B",
+          "locality": "Hotel Tinamú Birding Nature Reserve",
+          "country": "Colombia",
+          "rec": "Santiago Ramos",
+          "lic": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+        }
+      ]
+    },
+    {
+      "id": "turdus-fuscater",
+      "scientificName": "Turdus fuscater",
+      "nameEs": "Mirla patinaranja",
+      "nameEn": "Great Thrush",
+      "family": "Turdidae",
+      "recordings": [
+        {
+          "xcId": "237878",
+          "audioUrl": "https://xeno-canto.org/237878/download",
+          "xcUrl": "https://xeno-canto.org/237878",
+          "type": "call",
+          "quality": "B",
+          "locality": "Parque Regional Barbas-Bremen, Filandia, Quindio. Sector Bremen-Buenos Aires",
+          "country": "Colombia",
+          "rec": "Oscar Humberto Marin-Gomez",
+          "lic": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+        },
+        {
+          "xcId": "616265",
+          "audioUrl": "https://xeno-canto.org/616265/download",
+          "xcUrl": "https://xeno-canto.org/616265",
+          "type": "call",
+          "quality": "B",
+          "locality": "Camino a las Torres - La Ruidosa ",
+          "country": "Colombia",
+          "rec": "Mauricio Cuellar Ramirez (@Birding.travel)",
+          "lic": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+        },
+        {
+          "xcId": "632622",
+          "audioUrl": "https://xeno-canto.org/632622/download",
+          "xcUrl": "https://xeno-canto.org/632622",
+          "type": "song",
+          "quality": "B",
+          "locality": "Planada de las Diglossas ",
+          "country": "Colombia",
+          "rec": "Mauricio Cuellar Ramirez (@Birding.travel)",
+          "lic": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+        },
+        {
+          "xcId": "856754",
+          "audioUrl": "https://xeno-canto.org/856754/download",
+          "xcUrl": "https://xeno-canto.org/856754",
+          "type": "song",
+          "quality": "A",
+          "locality": "Sibundoy, Putumayo",
+          "country": "Colombia",
+          "rec": "Juan Esteban",
+          "lic": "https://creativecommons.org/publicdomain/zero/1.0/"
+        }
+      ]
+    },
+    {
+      "id": "thraupis-episcopus",
+      "scientificName": "Thraupis episcopus",
+      "nameEs": "Azulejo",
+      "nameEn": "Blue-gray Tanager",
+      "family": "Thraupidae",
+      "recordings": [
+        {
+          "xcId": "129721",
+          "audioUrl": "https://xeno-canto.org/129721/download",
+          "xcUrl": "https://xeno-canto.org/129721",
+          "type": "song",
+          "quality": "A",
+          "locality": "Universidad del Quindío, Armenia, Quindio",
+          "country": "Colombia",
+          "rec": "Oscar Humberto Marin-Gomez",
+          "lic": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+        },
+        {
+          "xcId": "457248",
+          "audioUrl": "https://xeno-canto.org/457248/download",
+          "xcUrl": "https://xeno-canto.org/457248",
+          "type": "song",
+          "quality": "A",
+          "locality": "Reserva Natural Cauquitá",
+          "country": "Colombia",
+          "rec": "David Monroy Rengifo",
+          "lic": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+        },
+        {
+          "xcId": "240116",
+          "audioUrl": "https://xeno-canto.org/240116/download",
+          "xcUrl": "https://xeno-canto.org/240116",
+          "type": "song",
+          "quality": "B",
+          "locality": "Bremen-Cuchillas, Vereda Cruces, Filandia, Quindío",
+          "country": "Colombia",
+          "rec": "Oscar Humberto Marín Gómez",
+          "lic": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+        },
+        {
+          "xcId": "316131",
+          "audioUrl": "https://xeno-canto.org/316131/download",
+          "xcUrl": "https://xeno-canto.org/316131",
+          "type": "song",
+          "quality": "B",
+          "locality": "Hotel Tinamú Birding Nature Reserve",
+          "country": "Colombia",
+          "rec": "Santiago Ramos",
+          "lic": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+        },
+        {
+          "xcId": "946264",
+          "audioUrl": "https://xeno-canto.org/946264/download",
+          "xcUrl": "https://xeno-canto.org/946264",
+          "type": "call",
+          "quality": "B",
+          "locality": "Palmira, Valle del Cauca",
+          "country": "Colombia",
+          "rec": "Cristian Rodas",
+          "lic": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+        }
+      ]
+    },
+    {
+      "id": "ramphocelus-dimidiatus",
+      "scientificName": "Ramphocelus dimidiatus",
+      "nameEs": "Toche pico de plata",
+      "nameEn": "Crimson-backed Tanager",
+      "family": "Thraupidae",
+      "recordings": [
+        {
+          "xcId": "148330",
+          "audioUrl": "https://xeno-canto.org/148330/download",
+          "xcUrl": "https://xeno-canto.org/148330",
+          "type": "song",
+          "quality": "A",
+          "locality": "Huila, San Agustin",
+          "country": "Colombia",
+          "rec": "Gary Stiles (Colección de Sonidos Ambientales - Instituto Humboldt)",
+          "lic": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+        },
+        {
+          "xcId": "32224",
+          "audioUrl": "https://xeno-canto.org/32224/download",
+          "xcUrl": "https://xeno-canto.org/32224",
+          "type": "call",
+          "quality": "A",
+          "locality": "RNA El Paujil, Serrania de las Quinchas,Santander, Colombia",
+          "country": "Colombia",
+          "rec": "Nick Athanas",
+          "lic": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+        },
+        {
+          "xcId": "124139",
+          "audioUrl": "https://xeno-canto.org/124139/download",
+          "xcUrl": "https://xeno-canto.org/124139",
+          "type": "song",
+          "quality": "A",
+          "locality": "Libano, Tolima",
+          "country": "Colombia",
+          "rec": "Jeisson Poveda",
+          "lic": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+        },
+        {
+          "xcId": "137679",
+          "audioUrl": "https://xeno-canto.org/137679/download",
+          "xcUrl": "https://xeno-canto.org/137679",
+          "type": "call",
+          "quality": "A",
+          "locality": "Fusagasuga, Cundinamarca",
+          "country": "Colombia",
+          "rec": "cesar villamil",
+          "lic": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+        },
+        {
+          "xcId": "236090",
+          "audioUrl": "https://xeno-canto.org/236090/download",
+          "xcUrl": "https://xeno-canto.org/236090",
+          "type": "call",
+          "quality": "A",
+          "locality": "Magdalena: San Lorenzo ridge, Sierra Nevada de Santa Marta",
+          "country": "Colombia",
+          "rec": "Niels Krabbe",
+          "lic": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+        }
+      ]
+    },
+    {
+      "id": "chlorochrysa-nitidissima",
+      "scientificName": "Chlorochrysa nitidissima",
+      "nameEs": "Tángara multicolor",
+      "nameEn": "Multicolored Tanager",
+      "family": "Thraupidae",
+      "recordings": [
+        {
+          "xcId": "22319",
+          "audioUrl": "https://xeno-canto.org/22319/download",
+          "xcUrl": "https://xeno-canto.org/22319",
+          "type": "call",
+          "quality": "A",
+          "locality": "El 18, Valle del Cauca",
+          "country": "Colombia",
+          "rec": "Andrew Spencer",
+          "lic": "https://creativecommons.org/licenses/by-nc-nd/2.5/"
+        },
+        {
+          "xcId": "22320",
+          "audioUrl": "https://xeno-canto.org/22320/download",
+          "xcUrl": "https://xeno-canto.org/22320",
+          "type": "call",
+          "quality": "A",
+          "locality": "El 18, Valle del Cauca",
+          "country": "Colombia",
+          "rec": "Andrew Spencer",
+          "lic": "https://creativecommons.org/licenses/by-nc-nd/2.5/"
+        },
+        {
+          "xcId": "442510",
+          "audioUrl": "https://xeno-canto.org/442510/download",
+          "xcUrl": "https://xeno-canto.org/442510",
+          "type": "call, song",
+          "quality": "A",
+          "locality": "Santuario de Flora y Fauna Otún-Quimbaya, Pereira, Risaralda",
+          "country": "Colombia",
+          "rec": "Jerome Fischer",
+          "lic": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+        },
+        {
+          "xcId": "130001",
+          "audioUrl": "https://xeno-canto.org/130001/download",
+          "xcUrl": "https://xeno-canto.org/130001",
+          "type": "flight call, song",
+          "quality": "B",
+          "locality": "Parque Regional Barbas-Bremen, Filandia, Quindio. Sector Barbas",
+          "country": "Colombia",
+          "rec": "Oscar Humberto Marin-Gomez",
+          "lic": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+        }
+      ]
+    },
+    {
+      "id": "sicalis-flaveola",
+      "scientificName": "Sicalis flaveola",
+      "nameEs": "Canario costeño",
+      "nameEn": "Saffron Finch",
+      "family": "Thraupidae",
+      "recordings": [
+        {
+          "xcId": "543736",
+          "audioUrl": "https://xeno-canto.org/543736/download",
+          "xcUrl": "https://xeno-canto.org/543736",
+          "type": "song",
+          "quality": "A",
+          "locality": "Finca San Jorge, Morelia/Caquetá",
+          "country": "Colombia",
+          "rec": "Mauricio Cuellar Ramirez (@Birding.travel)",
+          "lic": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+        },
+        {
+          "xcId": "128407",
+          "audioUrl": "https://xeno-canto.org/128407/download",
+          "xcUrl": "https://xeno-canto.org/128407",
+          "type": "call",
+          "quality": "B",
+          "locality": "Reserva Natural La Montaña del Ocaso, Quimbaya, Quindío",
+          "country": "Colombia",
+          "rec": "Oscar H. Marín-Gómez",
+          "lic": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+        },
+        {
+          "xcId": "455166",
+          "audioUrl": "https://xeno-canto.org/455166/download",
+          "xcUrl": "https://xeno-canto.org/455166",
+          "type": "song",
+          "quality": "B",
+          "locality": "Pereira, Pereira, Risaralda",
+          "country": "Colombia",
+          "rec": "David Monroy Rengifo",
+          "lic": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+        },
+        {
+          "xcId": "630016",
+          "audioUrl": "https://xeno-canto.org/630016/download",
+          "xcUrl": "https://xeno-canto.org/630016",
+          "type": "aberrant, song",
+          "quality": "B",
+          "locality": "Cali, Cali, Valle del Cauca",
+          "country": "Colombia",
+          "rec": "Luis Fernando Castillo ",
+          "lic": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+        },
+        {
+          "xcId": "723341",
+          "audioUrl": "https://xeno-canto.org/723341/download",
+          "xcUrl": "https://xeno-canto.org/723341",
+          "type": "song",
+          "quality": "B",
+          "locality": "Tuluá, Tuluá, Valle del Cauca",
+          "country": "Colombia",
+          "rec": "Luis Lozano",
+          "lic": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+        }
+      ]
+    },
+    {
+      "id": "spinus-psaltria",
+      "scientificName": "Spinus psaltria",
+      "nameEs": "Jilguero menor",
+      "nameEn": "Lesser Goldfinch",
+      "family": "Fringillidae",
+      "recordings": [
+        {
+          "xcId": "610674",
+          "audioUrl": "https://xeno-canto.org/610674/download",
+          "xcUrl": "https://xeno-canto.org/610674",
+          "type": "song",
+          "quality": "A",
+          "locality": "Dagua, Valle del Cauca",
+          "country": "Colombia",
+          "rec": "Juan Pablo Arboleda",
+          "lic": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+        },
+        {
+          "xcId": "697641",
+          "audioUrl": "https://xeno-canto.org/697641/download",
+          "xcUrl": "https://xeno-canto.org/697641",
+          "type": "song",
+          "quality": "A",
+          "locality": "Predio San Miguel - Elías, Huila",
+          "country": "Colombia",
+          "rec": "Mauricio Cuellar Ramirez (@Birding.travel)",
+          "lic": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+        },
+        {
+          "xcId": "697642",
+          "audioUrl": "https://xeno-canto.org/697642/download",
+          "xcUrl": "https://xeno-canto.org/697642",
+          "type": "song",
+          "quality": "A",
+          "locality": "Predio San Miguel - Elías, Huila",
+          "country": "Colombia",
+          "rec": "Mauricio Cuellar Ramirez (@Birding.travel)",
+          "lic": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+        },
+        {
+          "xcId": "457244",
+          "audioUrl": "https://xeno-canto.org/457244/download",
+          "xcUrl": "https://xeno-canto.org/457244",
+          "type": "begging call",
+          "quality": "B",
+          "locality": "Pereira, Risaralda",
+          "country": "Colombia",
+          "rec": "David Monroy Rengifo",
+          "lic": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+        }
+      ]
+    },
+    {
+      "id": "coereba-flaveola",
+      "scientificName": "Coereba flaveola",
+      "nameEs": "Mielero común",
+      "nameEn": "Bananaquit",
+      "family": "Thraupidae",
+      "recordings": [
+        {
+          "xcId": "128376",
+          "audioUrl": "https://xeno-canto.org/128376/download",
+          "xcUrl": "https://xeno-canto.org/128376",
+          "type": "song",
+          "quality": "A",
+          "locality": "Universidad del Quindío, Armenia, Quindio",
+          "country": "Colombia",
+          "rec": "Oscar H. Marín-Gómez",
+          "lic": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+        },
+        {
+          "xcId": "614934",
+          "audioUrl": "https://xeno-canto.org/614934/download",
+          "xcUrl": "https://xeno-canto.org/614934",
+          "type": "song",
+          "quality": "A",
+          "locality": "Pava Negra Nature Reserve - Florencia, Caquetá.",
+          "country": "Colombia",
+          "rec": "Mauricio Cuellar Ramirez (@Birding.travel)",
+          "lic": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+        },
+        {
+          "xcId": "91926",
+          "audioUrl": "https://xeno-canto.org/91926/download",
+          "xcUrl": "https://xeno-canto.org/91926",
+          "type": "song",
+          "quality": "B",
+          "locality": "Casa del Sol Naciente, San Agustin, Huila",
+          "country": "Colombia",
+          "rec": "Oswaldo Cortes",
+          "lic": "https://creativecommons.org/licenses/by-nc-nd/2.5/"
+        },
+        {
+          "xcId": "693430",
+          "audioUrl": "https://xeno-canto.org/693430/download",
+          "xcUrl": "https://xeno-canto.org/693430",
+          "type": "song",
+          "quality": "B",
+          "locality": "Florencia road, Caquetá",
+          "country": "Colombia",
+          "rec": "Peter Boesman",
+          "lic": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+        },
+        {
+          "xcId": "958224",
+          "audioUrl": "https://xeno-canto.org/958224/download",
+          "xcUrl": "https://xeno-canto.org/958224",
+          "type": "song",
+          "quality": "A",
+          "locality": "Cali, Valle del Cauca",
+          "country": "Colombia",
+          "rec": "András Schmidt",
+          "lic": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+        }
+      ]
+    },
+    {
+      "id": "troglodytes-aedon",
+      "scientificName": "Troglodytes aedon",
+      "nameEs": "Cucarachero común",
+      "nameEn": "House Wren",
+      "family": "Troglodytidae",
+      "recordings": [
+        {
+          "xcId": "86324",
+          "audioUrl": "https://xeno-canto.org/86324/download",
+          "xcUrl": "https://xeno-canto.org/86324",
+          "type": "song",
+          "quality": "A",
+          "locality": "Pereira, Risaralda. Cerritos.",
+          "country": "Colombia",
+          "rec": "Jeremy Minns",
+          "lic": "https://creativecommons.org/licenses/by-nc-nd/2.5/"
+        },
+        {
+          "xcId": "344337",
+          "audioUrl": "https://xeno-canto.org/344337/download",
+          "xcUrl": "https://xeno-canto.org/344337",
+          "type": "song",
+          "quality": "A",
+          "locality": "Hotel Tinamú Birding Nature Reserve",
+          "country": "Colombia",
+          "rec": "Hotel Tinamu",
+          "lic": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+        },
+        {
+          "xcId": "433184",
+          "audioUrl": "https://xeno-canto.org/433184/download",
+          "xcUrl": "https://xeno-canto.org/433184",
+          "type": "song",
+          "quality": "A",
+          "locality": "PRN Barbas-Bremen // Circuito Turistico Sur Oriente, Pereira, Risaralda",
+          "country": "Colombia",
+          "rec": "David Monroy Rengifo",
+          "lic": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+        },
+        {
+          "xcId": "442581",
+          "audioUrl": "https://xeno-canto.org/442581/download",
+          "xcUrl": "https://xeno-canto.org/442581",
+          "type": "song",
+          "quality": "A",
+          "locality": "Santuario de Flora y Fauna Otún-Quimbaya, Pereira, Risaralda",
+          "country": "Colombia",
+          "rec": "Jerome Fischer",
+          "lic": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+        },
+        {
+          "xcId": "690998",
+          "audioUrl": "https://xeno-canto.org/690998/download",
+          "xcUrl": "https://xeno-canto.org/690998",
+          "type": "call",
+          "quality": "A",
+          "locality": "Finca San Jorge, Morelia/Caquetá",
+          "country": "Colombia",
+          "rec": "Mauricio Cuellar Ramirez (@Birding.travel)",
+          "lic": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+        }
+      ]
+    },
+    {
+      "id": "amazilia-tzacatl",
+      "scientificName": "Amazilia tzacatl",
+      "nameEs": "Amazilia colirrufa",
+      "nameEn": "Rufous-tailed Hummingbird",
+      "family": "Trochilidae",
+      "recordings": [
+        {
+          "xcId": "445420",
+          "audioUrl": "https://xeno-canto.org/445420/download",
+          "xcUrl": "https://xeno-canto.org/445420",
+          "type": "call",
+          "quality": "A",
+          "locality": "Zanjón del Burro, Cali, Valle del Cauca",
+          "country": "Colombia",
+          "rec": "Juan Sebastian Ulloa",
+          "lic": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+        },
+        {
+          "xcId": "128384",
+          "audioUrl": "https://xeno-canto.org/128384/download",
+          "xcUrl": "https://xeno-canto.org/128384",
+          "type": "song",
+          "quality": "B",
+          "locality": "Reserva Natural La Montaña del Ocaso, Quimbaya, Quindío",
+          "country": "Colombia",
+          "rec": "Oscar H. Marín-Gómez",
+          "lic": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+        },
+        {
+          "xcId": "129709",
+          "audioUrl": "https://xeno-canto.org/129709/download",
+          "xcUrl": "https://xeno-canto.org/129709",
+          "type": "flight call",
+          "quality": "B",
+          "locality": "Universidad del Quindío, Armenia, Quindio",
+          "country": "Colombia",
+          "rec": "Oscar Humberto Marin-Gomez",
+          "lic": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+        },
+        {
+          "xcId": "946297",
+          "audioUrl": "https://xeno-canto.org/946297/download",
+          "xcUrl": "https://xeno-canto.org/946297",
+          "type": "song",
+          "quality": "B",
+          "locality": "Palmira, Valle del Cauca",
+          "country": "Colombia",
+          "rec": "Cristian Rodas",
+          "lic": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+        },
+        {
+          "xcId": "946298",
+          "audioUrl": "https://xeno-canto.org/946298/download",
+          "xcUrl": "https://xeno-canto.org/946298",
+          "type": "song",
+          "quality": "B",
+          "locality": "Palmira, Valle del Cauca",
+          "country": "Colombia",
+          "rec": "Cristian Rodas",
+          "lic": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+        }
+      ]
+    },
+    {
+      "id": "crotophaga-ani",
+      "scientificName": "Crotophaga ani",
+      "nameEs": "Garrapatero",
+      "nameEn": "Smooth-billed Ani",
+      "family": "Cuculidae",
+      "recordings": [
+        {
+          "xcId": "148298",
+          "audioUrl": "https://xeno-canto.org/148298/download",
+          "xcUrl": "https://xeno-canto.org/148298",
+          "type": "call",
+          "quality": "A",
+          "locality": "Huila, San Agustin",
+          "country": "Colombia",
+          "rec": "Gary Stiles (Colección de Sonidos Ambientales - Instituto Humboldt)",
+          "lic": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+        },
+        {
+          "xcId": "240064",
+          "audioUrl": "https://xeno-canto.org/240064/download",
+          "xcUrl": "https://xeno-canto.org/240064",
+          "type": "song",
+          "quality": "A",
+          "locality": "Alto Bonito, Cañón del río Barbas, Vereda Cruces, Filandia, Quindío",
+          "country": "Colombia",
+          "rec": "Oscar Humberto Marín Gómez",
+          "lic": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+        },
+        {
+          "xcId": "614559",
+          "audioUrl": "https://xeno-canto.org/614559/download",
+          "xcUrl": "https://xeno-canto.org/614559",
+          "type": "call, flight call",
+          "quality": "A",
+          "locality": "Caño Lagunilla - Morelia, Caquetá",
+          "country": "Colombia",
+          "rec": "Mauricio Cuellar Ramirez (@Birding.travel)",
+          "lic": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+        },
+        {
+          "xcId": "148299",
+          "audioUrl": "https://xeno-canto.org/148299/download",
+          "xcUrl": "https://xeno-canto.org/148299",
+          "type": "call",
+          "quality": "B",
+          "locality": "Huila, San Agustin",
+          "country": "Colombia",
+          "rec": "Gary Stiles (Colección de Sonidos Ambientales - Instituto Humboldt)",
+          "lic": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+        },
+        {
+          "xcId": "244744",
+          "audioUrl": "https://xeno-canto.org/244744/download",
+          "xcUrl": "https://xeno-canto.org/244744",
+          "type": "song",
+          "quality": "B",
+          "locality": "Alto Bonito, Cañón del río Barbas, Vereda Cruces, Filandia, Quindío",
+          "country": "Colombia",
+          "rec": "Oscar Humberto Marín Gómez",
+          "lic": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+        }
+      ]
+    },
+    {
+      "id": "zenaida-auriculata",
+      "scientificName": "Zenaida auriculata",
+      "nameEs": "Torcaza naguiblanca",
+      "nameEn": "Eared Dove",
+      "family": "Columbidae",
+      "recordings": [
+        {
+          "xcId": "54451",
+          "audioUrl": "https://xeno-canto.org/54451/download",
+          "xcUrl": "https://xeno-canto.org/54451",
+          "type": "song",
+          "quality": "A",
+          "locality": "Laguna de Pedro Palo, Tena, Cundinamarca",
+          "country": "Colombia",
+          "rec": "Bernabe Lopez-Lanus",
+          "lic": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+        },
+        {
+          "xcId": "53399",
+          "audioUrl": "https://xeno-canto.org/53399/download",
+          "xcUrl": "https://xeno-canto.org/53399",
+          "type": "song",
+          "quality": "B",
+          "locality": "Finca La Carbonera (canon del rio Toche), Tolima",
+          "country": "Colombia",
+          "rec": "Bernabe Lopez-Lanus",
+          "lic": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+        },
+        {
+          "xcId": "420996",
+          "audioUrl": "https://xeno-canto.org/420996/download",
+          "xcUrl": "https://xeno-canto.org/420996",
+          "type": "song",
+          "quality": "B",
+          "locality": "Reserva Natural Gaia, Ibagué, Tolima",
+          "country": "Colombia",
+          "rec": "Yair Guillermo Molina Martínez.",
+          "lic": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+        },
+        {
+          "xcId": "975670",
+          "audioUrl": "https://xeno-canto.org/975670/download",
+          "xcUrl": "https://xeno-canto.org/975670",
+          "type": "song",
+          "quality": "B",
+          "locality": "Tauramena, Casanare",
+          "country": "Colombia",
+          "rec": "David Ricardo Rodríguez-Villamil",
+          "lic": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+        },
+        {
+          "xcId": "975671",
+          "audioUrl": "https://xeno-canto.org/975671/download",
+          "xcUrl": "https://xeno-canto.org/975671",
+          "type": "song",
+          "quality": "B",
+          "locality": "Tauramena, Casanare",
+          "country": "Colombia",
+          "rec": "David Ricardo Rodríguez-Villamil",
+          "lic": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+        }
+      ]
+    },
+    {
+      "id": "columbina-talpacoti",
+      "scientificName": "Columbina talpacoti",
+      "nameEs": "Tortolita común",
+      "nameEn": "Ruddy Ground Dove",
+      "family": "Columbidae",
+      "recordings": [
+        {
+          "xcId": "655328",
+          "audioUrl": "https://xeno-canto.org/655328/download",
+          "xcUrl": "https://xeno-canto.org/655328",
+          "type": "song",
+          "quality": "A",
+          "locality": "Conjunto Residencial Altos de San Jorge, Florencia, Caquetá",
+          "country": "Colombia",
+          "rec": "Mauricio Cuellar Ramirez (@Birding.travel)",
+          "lic": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+        },
+        {
+          "xcId": "690979",
+          "audioUrl": "https://xeno-canto.org/690979/download",
+          "xcUrl": "https://xeno-canto.org/690979",
+          "type": "song",
+          "quality": "A",
+          "locality": "Finca San Jorge, Morelia/Caquetá",
+          "country": "Colombia",
+          "rec": "Mauricio Cuellar Ramirez (@Birding.travel)",
+          "lic": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+        },
+        {
+          "xcId": "690980",
+          "audioUrl": "https://xeno-canto.org/690980/download",
+          "xcUrl": "https://xeno-canto.org/690980",
+          "type": "song",
+          "quality": "A",
+          "locality": "Finca San Jorge, Morelia/Caquetá",
+          "country": "Colombia",
+          "rec": "Mauricio Cuellar Ramirez (@Birding.travel)",
+          "lic": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+        },
+        {
+          "xcId": "456341",
+          "audioUrl": "https://xeno-canto.org/456341/download",
+          "xcUrl": "https://xeno-canto.org/456341",
+          "type": "song",
+          "quality": "B",
+          "locality": "Reserva Natural Cauquitá",
+          "country": "Colombia",
+          "rec": "David Monroy Rengifo",
+          "lic": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+        },
+        {
+          "xcId": "946058",
+          "audioUrl": "https://xeno-canto.org/946058/download",
+          "xcUrl": "https://xeno-canto.org/946058",
+          "type": "call",
+          "quality": "B",
+          "locality": "Palmira, Valle del Cauca",
+          "country": "Colombia",
+          "rec": "Cristian Rodas",
+          "lic": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+        }
+      ]
+    },
+    {
+      "id": "vanellus-chilensis",
+      "scientificName": "Vanellus chilensis",
+      "nameEs": "Pellar",
+      "nameEn": "Southern Lapwing",
+      "family": "Charadriidae",
+      "recordings": [
+        {
+          "xcId": "131751",
+          "audioUrl": "https://xeno-canto.org/131751/download",
+          "xcUrl": "https://xeno-canto.org/131751",
+          "type": "alarm call",
+          "quality": "A",
+          "locality": "Parque Regional Barbas-Bremen, Filandia, Quindio. Sector Barbas",
+          "country": "Colombia",
+          "rec": "Oscar Humberto Marin-Gomez",
+          "lic": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+        },
+        {
+          "xcId": "442652",
+          "audioUrl": "https://xeno-canto.org/442652/download",
+          "xcUrl": "https://xeno-canto.org/442652",
+          "type": "call",
+          "quality": "A",
+          "locality": "Santuario de Flora y Fauna Otún-Quimbaya, Pereira, Risaralda",
+          "country": "Colombia",
+          "rec": "Jerome Fischer",
+          "lic": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+        },
+        {
+          "xcId": "456659",
+          "audioUrl": "https://xeno-canto.org/456659/download",
+          "xcUrl": "https://xeno-canto.org/456659",
+          "type": "alarm call",
+          "quality": "A",
+          "locality": "PRN Barbas-Bremen // Circuito Turistico Sur Oriente, Pereira, Risaralda",
+          "country": "Colombia",
+          "rec": "David Monroy Rengifo",
+          "lic": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+        },
+        {
+          "xcId": "550002",
+          "audioUrl": "https://xeno-canto.org/550002/download",
+          "xcUrl": "https://xeno-canto.org/550002",
+          "type": "alarm call",
+          "quality": "A",
+          "locality": "Finca San Jorge, Morelia/Caquetá",
+          "country": "Colombia",
+          "rec": "Mauricio Cuellar Ramirez (@Birding.travel)",
+          "lic": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+        },
+        {
+          "xcId": "558367",
+          "audioUrl": "https://xeno-canto.org/558367/download",
+          "xcUrl": "https://xeno-canto.org/558367",
+          "type": "song, subsong",
+          "quality": "B",
+          "locality": "Vereda La Selva, Popayán, Cauca",
+          "country": "Colombia",
+          "rec": "Alejandro Vivas Ruiz",
+          "lic": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+        }
+      ]
+    },
+    {
+      "id": "forpus-conspicillatus",
+      "scientificName": "Forpus conspicillatus",
+      "nameEs": "Periquito de anteojos",
+      "nameEn": "Spectacled Parrotlet",
+      "family": "Psittacidae",
+      "recordings": [
+        {
+          "xcId": "62456",
+          "audioUrl": "https://xeno-canto.org/62456/download",
+          "xcUrl": "https://xeno-canto.org/62456",
+          "type": "call",
+          "quality": "A",
+          "locality": "Darien, Valle del Cauca",
+          "country": "Colombia",
+          "rec": "Andrew Spencer",
+          "lic": "https://creativecommons.org/licenses/by-nc-nd/2.5/"
+        },
+        {
+          "xcId": "62457",
+          "audioUrl": "https://xeno-canto.org/62457/download",
+          "xcUrl": "https://xeno-canto.org/62457",
+          "type": "call",
+          "quality": "A",
+          "locality": "San Agustin, Huila",
+          "country": "Colombia",
+          "rec": "Andrew Spencer",
+          "lic": "https://creativecommons.org/licenses/by-nc-nd/2.5/"
+        },
+        {
+          "xcId": "121449",
+          "audioUrl": "https://xeno-canto.org/121449/download",
+          "xcUrl": "https://xeno-canto.org/121449",
+          "type": "song",
+          "quality": "A",
+          "locality": "Reserva Natural La Montaña del Ocaso, Quimbaya, Quindío",
+          "country": "Colombia",
+          "rec": "Oscar H. Marín-Gómez",
+          "lic": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+        },
+        {
+          "xcId": "589645",
+          "audioUrl": "https://xeno-canto.org/589645/download",
+          "xcUrl": "https://xeno-canto.org/589645",
+          "type": "call, subsong",
+          "quality": "A",
+          "locality": "Piscicola NY",
+          "country": "Colombia",
+          "rec": "Mauricio Cuellar Ramirez (@Birding.travel)",
+          "lic": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+        },
+        {
+          "xcId": "622462",
+          "audioUrl": "https://xeno-canto.org/622462/download",
+          "xcUrl": "https://xeno-canto.org/622462",
+          "type": "call",
+          "quality": "A",
+          "locality": "Piscicola NY",
+          "country": "Colombia",
+          "rec": "Mauricio Cuellar Ramirez (@Birding.travel)",
+          "lic": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+        }
+      ]
+    },
+    {
+      "id": "ortalis-columbiana",
+      "scientificName": "Ortalis columbiana",
+      "nameEs": "Guacharaca colombiana",
+      "nameEn": "Colombian Chachalaca",
+      "family": "Cracidae",
+      "recordings": [
+        {
+          "xcId": "45336",
+          "audioUrl": "https://xeno-canto.org/45336/download",
+          "xcUrl": "https://xeno-canto.org/45336",
+          "type": "call",
+          "quality": "A",
+          "locality": "Alrededores de Roncesvalles_Tolima",
+          "country": "Colombia",
+          "rec": "Bernabe Lopez-Lanus",
+          "lic": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+        },
+        {
+          "xcId": "58944",
+          "audioUrl": "https://xeno-canto.org/58944/download",
+          "xcUrl": "https://xeno-canto.org/58944",
+          "type": "call",
+          "quality": "A",
+          "locality": "San Agustin, Huila",
+          "country": "Colombia",
+          "rec": "Andrew Spencer",
+          "lic": "https://creativecommons.org/licenses/by-nc-nd/2.5/"
+        },
+        {
+          "xcId": "58946",
+          "audioUrl": "https://xeno-canto.org/58946/download",
+          "xcUrl": "https://xeno-canto.org/58946",
+          "type": "song",
+          "quality": "A",
+          "locality": "El 18, Valle del Cauca",
+          "country": "Colombia",
+          "rec": "Andrew Spencer",
+          "lic": "https://creativecommons.org/licenses/by-nc-nd/2.5/"
+        },
+        {
+          "xcId": "437958",
+          "audioUrl": "https://xeno-canto.org/437958/download",
+          "xcUrl": "https://xeno-canto.org/437958",
+          "type": "call",
+          "quality": "A",
+          "locality": "Zanjón del Burro, Cali, Valle del Cauca",
+          "country": "Colombia",
+          "rec": "Juan Sebastian Ulloa",
+          "lic": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+        },
+        {
+          "xcId": "693728",
+          "audioUrl": "https://xeno-canto.org/693728/download",
+          "xcUrl": "https://xeno-canto.org/693728",
+          "type": "call",
+          "quality": "A",
+          "locality": "El Encanto Lodge, Palestina, Huila",
+          "country": "Colombia",
+          "rec": "Peter Boesman",
+          "lic": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+        }
+      ]
+    },
+    {
+      "id": "penelope-perspicax",
+      "scientificName": "Penelope perspicax",
+      "nameEs": "Pava caucana",
+      "nameEn": "Cauca Guan",
+      "family": "Cracidae",
+      "recordings": [
+        {
+          "xcId": "121305",
+          "audioUrl": "https://xeno-canto.org/121305/download",
+          "xcUrl": "https://xeno-canto.org/121305",
+          "type": "alarm call",
+          "quality": "A",
+          "locality": "Parque Regional Barbas-Bremen, Filandia, Quindio",
+          "country": "Colombia",
+          "rec": "Oscar H. Marín-Gómez",
+          "lic": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+        },
+        {
+          "xcId": "433187",
+          "audioUrl": "https://xeno-canto.org/433187/download",
+          "xcUrl": "https://xeno-canto.org/433187",
+          "type": "alarm call, flight call",
+          "quality": "A",
+          "locality": "PRN Barbas -Bremen // Sendero Yarumal",
+          "country": "Colombia",
+          "rec": "David Monroy Rengifo",
+          "lic": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+        },
+        {
+          "xcId": "433188",
+          "audioUrl": "https://xeno-canto.org/433188/download",
+          "xcUrl": "https://xeno-canto.org/433188",
+          "type": "alarm call, flight call",
+          "quality": "A",
+          "locality": "PRN Barbas -Bremen // Sendero Yarumal",
+          "country": "Colombia",
+          "rec": "David Monroy Rengifo",
+          "lic": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+        },
+        {
+          "xcId": "128566",
+          "audioUrl": "https://xeno-canto.org/128566/download",
+          "xcUrl": "https://xeno-canto.org/128566",
+          "type": "alarm call",
+          "quality": "B",
+          "locality": "Parque Regional Barbas-Bremen, Filandia, Quindio",
+          "country": "Colombia",
+          "rec": "Oscar H. Marín-Gómez",
+          "lic": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+        },
+        {
+          "xcId": "129901",
+          "audioUrl": "https://xeno-canto.org/129901/download",
+          "xcUrl": "https://xeno-canto.org/129901",
+          "type": "call, song",
+          "quality": "B",
+          "locality": "Parque Regional Barbas-Bremen, Filandia, Quindio. Sector Barbas",
+          "country": "Colombia",
+          "rec": "Oscar Humberto Marin-Gomez",
+          "lic": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+        }
+      ]
+    },
+    {
+      "id": "melanerpes-rubricapillus",
+      "scientificName": "Melanerpes rubricapillus",
+      "nameEs": "Carpintero habado",
+      "nameEn": "Red-crowned Woodpecker",
+      "family": "Picidae",
+      "recordings": [
+        {
+          "xcId": "148335",
+          "audioUrl": "https://xeno-canto.org/148335/download",
+          "xcUrl": "https://xeno-canto.org/148335",
+          "type": "song",
+          "quality": "A",
+          "locality": "Huila, San Agustin",
+          "country": "Colombia",
+          "rec": "Gary Stiles (Colección de Sonidos Ambientales - Instituto Humboldt)",
+          "lic": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+        },
+        {
+          "xcId": "459234",
+          "audioUrl": "https://xeno-canto.org/459234/download",
+          "xcUrl": "https://xeno-canto.org/459234",
+          "type": "song",
+          "quality": "A",
+          "locality": "Reserva Natural Cauquitá",
+          "country": "Colombia",
+          "rec": "David Monroy Rengifo",
+          "lic": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+        },
+        {
+          "xcId": "538089",
+          "audioUrl": "https://xeno-canto.org/538089/download",
+          "xcUrl": "https://xeno-canto.org/538089",
+          "type": "song",
+          "quality": "A",
+          "locality": "Parque de Multicentro, Cali, Valle del Cauca",
+          "country": "Colombia",
+          "rec": "Camilo E. Sánchez Sarria",
+          "lic": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+        },
+        {
+          "xcId": "437834",
+          "audioUrl": "https://xeno-canto.org/437834/download",
+          "xcUrl": "https://xeno-canto.org/437834",
+          "type": "call, song",
+          "quality": "B",
+          "locality": "Zanjón del Burro, Cali, Valle del Cauca",
+          "country": "Colombia",
+          "rec": "Juan Sebastian Ulloa",
+          "lic": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+        },
+        {
+          "xcId": "946140",
+          "audioUrl": "https://xeno-canto.org/946140/download",
+          "xcUrl": "https://xeno-canto.org/946140",
+          "type": "call",
+          "quality": "B",
+          "locality": "Palmira, Valle del Cauca",
+          "country": "Colombia",
+          "rec": "Cristian Rodas",
+          "lic": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+        }
+      ]
+    },
+    {
+      "id": "momotus-aequatorialis",
+      "scientificName": "Momotus aequatorialis",
+      "nameEs": "Barranquero",
+      "nameEn": "Andean Motmot",
+      "family": "Momotidae",
+      "recordings": [
+        {
+          "xcId": "57094",
+          "audioUrl": "https://xeno-canto.org/57094/download",
+          "xcUrl": "https://xeno-canto.org/57094",
+          "type": "begging call",
+          "quality": "A",
+          "locality": "El 18, Valle del Cauca",
+          "country": "Colombia",
+          "rec": "Andrew Spencer",
+          "lic": "https://creativecommons.org/licenses/by-nc-nd/2.5/"
+        },
+        {
+          "xcId": "273644",
+          "audioUrl": "https://xeno-canto.org/273644/download",
+          "xcUrl": "https://xeno-canto.org/273644",
+          "type": "song",
+          "quality": "A",
+          "locality": "Bosque Bremen, Quindio",
+          "country": "Colombia",
+          "rec": "Peter Boesman",
+          "lic": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+        },
+        {
+          "xcId": "344320",
+          "audioUrl": "https://xeno-canto.org/344320/download",
+          "xcUrl": "https://xeno-canto.org/344320",
+          "type": "call",
+          "quality": "A",
+          "locality": "Hotel Tinamú Birding Nature Reserve",
+          "country": "Colombia",
+          "rec": "Hotel Tinamu",
+          "lic": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+        },
+        {
+          "xcId": "456664",
+          "audioUrl": "https://xeno-canto.org/456664/download",
+          "xcUrl": "https://xeno-canto.org/456664",
+          "type": "call",
+          "quality": "A",
+          "locality": "PRN Barbas-Bremen // Circuito Turistico Sur Oriente, Pereira, Risaralda",
+          "country": "Colombia",
+          "rec": "David Monroy Rengifo",
+          "lic": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+        },
+        {
+          "xcId": "1180131",
+          "audioUrl": "https://xeno-canto.org/1180131/download",
+          "xcUrl": "https://xeno-canto.org/1180131",
+          "type": "alarm call",
+          "quality": "A",
+          "locality": "KM18 road, Valle del Cauca",
+          "country": "Colombia",
+          "rec": "Manuel Sánchez-Nivicela",
+          "lic": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+        }
+      ]
+    },
+    {
+      "id": "phimosus-infuscatus",
+      "scientificName": "Phimosus infuscatus",
+      "nameEs": "Coquito",
+      "nameEn": "Bare-faced Ibis",
+      "family": "Threskiornithidae",
+      "recordings": [
+        {
+          "xcId": "946174",
+          "audioUrl": "https://xeno-canto.org/946174/download",
+          "xcUrl": "https://xeno-canto.org/946174",
+          "type": "call",
+          "quality": "B",
+          "locality": "Palmira, Valle del Cauca",
+          "country": "Colombia",
+          "rec": "Cristian Rodas",
+          "lic": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+        },
+        {
+          "xcId": "946175",
+          "audioUrl": "https://xeno-canto.org/946175/download",
+          "xcUrl": "https://xeno-canto.org/946175",
+          "type": "call",
+          "quality": "B",
+          "locality": "Palmira, Valle del Cauca",
+          "country": "Colombia",
+          "rec": "Cristian Rodas",
+          "lic": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+        },
+        {
+          "xcId": "946176",
+          "audioUrl": "https://xeno-canto.org/946176/download",
+          "xcUrl": "https://xeno-canto.org/946176",
+          "type": "call",
+          "quality": "B",
+          "locality": "Palmira, Valle del Cauca",
+          "country": "Colombia",
+          "rec": "Cristian Rodas",
+          "lic": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+        },
+        {
+          "xcId": "946177",
+          "audioUrl": "https://xeno-canto.org/946177/download",
+          "xcUrl": "https://xeno-canto.org/946177",
+          "type": "call",
+          "quality": "B",
+          "locality": "Palmira, Valle del Cauca",
+          "country": "Colombia",
+          "rec": "Cristian Rodas",
+          "lic": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+        },
+        {
+          "xcId": "946178",
+          "audioUrl": "https://xeno-canto.org/946178/download",
+          "xcUrl": "https://xeno-canto.org/946178",
+          "type": "call",
+          "quality": "B",
+          "locality": "Palmira, Valle del Cauca",
+          "country": "Colombia",
+          "rec": "Cristian Rodas",
+          "lic": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+        }
+      ]
+    },
+    {
+      "id": "megascops-choliba",
+      "scientificName": "Megascops choliba",
+      "nameEs": "Currucutú",
+      "nameEn": "Tropical Screech-Owl",
+      "family": "Strigidae",
+      "recordings": [
+        {
+          "xcId": "589903",
+          "audioUrl": "https://xeno-canto.org/589903/download",
+          "xcUrl": "https://xeno-canto.org/589903",
+          "type": "song",
+          "quality": "A",
+          "locality": "Finca San Jorge, Morelia/Caquetá",
+          "country": "Colombia",
+          "rec": "Mauricio Cuellar Ramirez (@Birding.travel)",
+          "lic": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+        },
+        {
+          "xcId": "46089",
+          "audioUrl": "https://xeno-canto.org/46089/download",
+          "xcUrl": "https://xeno-canto.org/46089",
+          "type": "song",
+          "quality": "B",
+          "locality": "Valle del Cauca, Municipio de Andalucia, Humedal Charco de Oro",
+          "country": "Colombia",
+          "rec": "Juan Pablo López O",
+          "lic": "https://creativecommons.org/licenses/by-nc-nd/2.5/"
+        },
+        {
+          "xcId": "344312",
+          "audioUrl": "https://xeno-canto.org/344312/download",
+          "xcUrl": "https://xeno-canto.org/344312",
+          "type": "song",
+          "quality": "B",
+          "locality": "Hotel Tinamú Birding Nature Reserve",
+          "country": "Colombia",
+          "rec": "Hotel Tinamu",
+          "lic": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+        },
+        {
+          "xcId": "506976",
+          "audioUrl": "https://xeno-canto.org/506976/download",
+          "xcUrl": "https://xeno-canto.org/506976",
+          "type": "call",
+          "quality": "B",
+          "locality": "Reserva Natural Cauquitá",
+          "country": "Colombia",
+          "rec": "David Monroy Rengifo",
+          "lic": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+        },
+        {
+          "xcId": "541301",
+          "audioUrl": "https://xeno-canto.org/541301/download",
+          "xcUrl": "https://xeno-canto.org/541301",
+          "type": "call, song",
+          "quality": "B",
+          "locality": "Reserva Natural Cauquitá",
+          "country": "Colombia",
+          "rec": "David Monroy Rengifo",
+          "lic": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+        }
+      ]
+    },
+    {
+      "id": "nyctidromus-albicollis",
+      "scientificName": "Nyctidromus albicollis",
+      "nameEs": "Guardacaminos común",
+      "nameEn": "Common Pauraque",
+      "family": "Caprimulgidae",
+      "recordings": [
+        {
+          "xcId": "124327",
+          "audioUrl": "https://xeno-canto.org/124327/download",
+          "xcUrl": "https://xeno-canto.org/124327",
+          "type": "song",
+          "quality": "A",
+          "locality": "Reserva Natural La Planada, Ricaurte, Narino",
+          "country": "Colombia",
+          "rec": "Alejo Mendoza",
+          "lic": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+        },
+        {
+          "xcId": "455589",
+          "audioUrl": "https://xeno-canto.org/455589/download",
+          "xcUrl": "https://xeno-canto.org/455589",
+          "type": "song",
+          "quality": "A",
+          "locality": "Reserva Natural Cauquitá",
+          "country": "Colombia",
+          "rec": "David Monroy Rengifo",
+          "lic": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+        },
+        {
+          "xcId": "455591",
+          "audioUrl": "https://xeno-canto.org/455591/download",
+          "xcUrl": "https://xeno-canto.org/455591",
+          "type": "song",
+          "quality": "A",
+          "locality": "Reserva Natural Cauquitá",
+          "country": "Colombia",
+          "rec": "David Monroy Rengifo",
+          "lic": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+        },
+        {
+          "xcId": "573801",
+          "audioUrl": "https://xeno-canto.org/573801/download",
+          "xcUrl": "https://xeno-canto.org/573801",
+          "type": "song",
+          "quality": "A",
+          "locality": "Finca San Jorge, Morelia/Caquetá",
+          "country": "Colombia",
+          "rec": "Mauricio Cuéllar-Ramírez",
+          "lic": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+        },
+        {
+          "xcId": "589904",
+          "audioUrl": "https://xeno-canto.org/589904/download",
+          "xcUrl": "https://xeno-canto.org/589904",
+          "type": "song",
+          "quality": "A",
+          "locality": "Finca San Jorge, Morelia/Caquetá",
+          "country": "Colombia",
+          "rec": "Mauricio Cuellar Ramirez (@Birding.travel)",
+          "lic": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+        }
+      ]
+    }
+  ]
+}

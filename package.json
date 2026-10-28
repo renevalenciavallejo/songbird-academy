@@ -1,0 +1,24 @@
+{
+  "name": "songbird-academy",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "description": "Aprende a identificar aves del Valle del Cauca y Cauca por su canto.",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc --noEmit && vite build",
+    "preview": "vite preview",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "catalog": "node scripts/build-catalog.mjs",
+    "check:secrets": "node scripts/check-secrets.mjs"
+  },
+  "engines": {
+    "node": ">=20.12"
+  },
+  "devDependencies": {
+    "typescript": "^7.0.2",
+    "vite": "^8.3.5",
+    "vitest": "^5.0.5"
+  }
+}
